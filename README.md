@@ -1,6 +1,7 @@
 
 # AI
 =======
+'''
 ai_service/
 ├── main.py                      # FastAPI 진입점
 ├── router/
@@ -21,3 +22,4 @@ ai_service/
 │   └── openai_config.py         # GPT API 키 및 호출 설정
 ├── requirements.txt             # 의존성 패키지 목록
 └── README.md                    # 설명서
+'''
